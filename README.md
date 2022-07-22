@@ -20,5 +20,5 @@ This app will run in the browser and will feature dynamically updated HTML and C
 
 # Links
 
-Deployed Link
-Github link -
+Deployed Link -  https://nafisa-am.github.io/Clear-Pass/
+Github link -  https://github.com/nafisa-am/Clear-Pass.git
